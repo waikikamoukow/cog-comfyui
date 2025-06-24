@@ -277,5 +277,9 @@
   {
     "repo": "https://github.com/ShmuelRonen/ComfyUI-FreeMemory",
     "commit": "44fc13f"
+  },
+  {
+    "repo": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
+    "commit": "8479624"
   }
 ]
