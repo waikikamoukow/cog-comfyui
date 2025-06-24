@@ -2,7 +2,9 @@ import subprocess
 import time
 import os
 from weights_manifest import WeightsManifest
+from config import config
 
+MODELS_PATH = config["MODELS_PATH"]
 
 class WeightsDownloader:
     supported_filetypes = [
@@ -46,6 +48,8 @@ class WeightsDownloader:
                     self.weights_map[weight_str]["url"],
                     self.weights_map[weight_str]["dest"],
                 )
+        elif self.check_if_file_exists(weight_str, f"{MODELS_PATH}/loras"):
+            print(f"✅ {weight_str} exists in loras")
         else:
             raise ValueError(
                 f"{weight_str} unavailable. View the list of available weights: https://github.com/replicate/cog-comfyui/blob/main/supported_weights.md"

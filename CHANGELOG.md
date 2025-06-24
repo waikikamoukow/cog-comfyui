@@ -1,4 +1,5 @@
 ## 2025-06-23
+- [Add Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) custom node
 
 - [Update ComfyUI to latest](https://github.com/comfyanonymous/ComfyUI/compare/f2289a1...ae0e7c4)
 
