@@ -69,3 +69,13 @@ iopath
 yarl>=1.18.0
 alembic
 SQLAlchemy
+ollama
+pydub
+ffmpeg-python
+civitai-py
+fal_client
+sounddevice
+langdetect
+spacy
+textblob
+openai
