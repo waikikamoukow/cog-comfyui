@@ -51,9 +51,7 @@ class WeightsDownloader:
         elif self.check_if_file_exists(weight_str, f"{MODELS_PATH}/loras"):
             print(f"✅ {weight_str} exists in loras")
         else:
-            raise ValueError(
-                f"{weight_str} unavailable. View the list of available weights: https://github.com/replicate/cog-comfyui/blob/main/supported_weights.md"
-            )
+            print(f"⚠️ {weight_str} not in list of available weights. You will need to manually download weight to correct directory and use a bind mount with docker to use it. View the list of available weights: https://github.com/replicate/cog-comfyui/blob/main/supported_weights.md")
 
     def check_if_file_exists(self, weight_str, dest):
         if dest.endswith(weight_str):
