@@ -1,3 +1,6 @@
+## 2025-06-24
+
+- [Add ComfyUI-FreeMemory](https://github.com/ShmuelRonen/ComfyUI-FreeMemory) custom node
 ## 2025-06-23
 - [Add Bjornulf_custom_nodes](https://github.com/justUmen/Bjornulf_custom_nodes) custom node
 
