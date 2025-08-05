@@ -79,3 +79,4 @@ langdetect
 spacy
 textblob
 openai
+faster-whisper
