@@ -281,5 +281,21 @@
   {
     "repo": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
     "commit": "998a69c"
+  },
+  {
+    "repo": "https://github.com/mit-han-lab/ComfyUI-nunchaku",
+    "commit": "aee38dd"
+  },
+  {
+    "repo": "https://github.com/deforum/deforum-comfy-nodes",
+    "commit": "db95f90"
+  },
+  {
+    "repo": "https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside",
+    "commit": "4d4f8bc"
+  },
+  {
+    "repo": "https://github.com/akatz-ai/ComfyUI-Basic-Math",
+    "commit": "e15c055"
   }
 ]

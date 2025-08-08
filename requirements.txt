@@ -1,4 +1,4 @@
-torch
+torch==2.7.1
 torchvision
 torchaudio
 torchsde
@@ -79,3 +79,4 @@ spacy
 textblob
 openai
 faster-whisper
+nunchaku @ https://github.com/nunchaku-tech/nunchaku/releases/download/v0.3.1/nunchaku-0.3.1+torch2.7-cp312-cp312-linux_x86_64.whl
