@@ -26,15 +26,15 @@
   },
   {
     "repo": "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved",
-    "commit": "a34036b"
+    "commit": "90fb133"
   },
   {
     "repo": "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite",
-    "commit": "330bce6"
+    "commit": "8e4d794"
   },
   {
     "repo": "https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet",
-    "commit": "da254b7"
+    "commit": "2bde95a"
   },
   {
     "repo": "https://github.com/jags111/efficiency-nodes-comfyui",
@@ -50,7 +50,7 @@
   },
   {
     "repo": "https://github.com/TinyTerra/ComfyUI_tinyterraNodes",
-    "commit": "c669e6c"
+    "commit": "1a90e43"
   },
   {
     "repo": "https://github.com/ssitu/ComfyUI_UltimateSDUpscale",
@@ -74,7 +74,7 @@
   },
   {
     "repo": "https://github.com/Gourieff/ComfyUI-ReActor",
-    "commit": "d901609"
+    "commit": "d60458f"
   },
   {
     "repo": "https://github.com/cubiq/ComfyUI_InstantID",
@@ -102,7 +102,7 @@
   },
   {
     "repo": "https://github.com/kijai/ComfyUI-KJNodes",
-    "commit": "a6b867b"
+    "commit": "87d0cf4"
   },
   {
     "repo": "https://github.com/Fannovel16/ComfyUI-Frame-Interpolation",
@@ -134,7 +134,7 @@
   },
   {
     "repo": "https://github.com/rgthree/rgthree-comfy",
-    "commit": "944d535"
+    "commit": "c5ffa43"
   },
   {
     "repo": "https://github.com/fofr/comfyui-prompter-fofrai",
@@ -216,7 +216,7 @@
   },
   {
     "repo": "https://github.com/kijai/ComfyUI-Florence2",
-    "commit": "de485b6"
+    "commit": "b241d3f"
   },
   {
     "repo": "https://github.com/kijai/ComfyUI-segment-anything-2",
@@ -232,7 +232,7 @@
   },
   {
     "repo": "https://github.com/chengzeyi/Comfy-WaveSpeed",
-    "commit": "16ec6f3"
+    "commit": "8253745"
   },
   {
     "repo": "https://github.com/Slickytail/ComfyUI-InstantX-IPAdapter-SD3",
@@ -268,7 +268,7 @@
   },
   {
     "repo": "https://github.com/1038lab/ComfyUI-RMBG",
-    "commit": "72bc6a5"
+    "commit": "f4ecb32"
   },
   {
     "repo": "https://github.com/justUmen/Bjornulf_custom_nodes",
@@ -280,7 +280,7 @@
   },
   {
     "repo": "https://github.com/kijai/ComfyUI-WanVideoWrapper",
-    "commit": "998a69c"
+    "commit": "a64d8bb"
   },
   {
     "repo": "https://github.com/mit-han-lab/ComfyUI-nunchaku",

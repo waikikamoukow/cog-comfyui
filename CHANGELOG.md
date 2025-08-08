@@ -1,3 +1,16 @@
+## 2025-08-08
+- [Updated ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper/compare/998a69c...a64d8bb)
+- [Updated ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG/compare/72bc6a5...f4ecb32)
+- [Updated Comfy-WaveSpeed](https://github.com/chengzeyi/Comfy-WaveSpeed/compare/16ec6f3...8253745)
+- [Updated ComfyUI-Florence2](https://github.com/kijai/ComfyUI-Florence2/compare/de485b6...b241d3f)
+- [Updated rgthree-comfy](https://github.com/rgthree/rgthree-comfy/compare/944d535...c5ffa43)
+- [Updated ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes/compare/a6b867b...87d0cf4)
+- [Updated ComfyUI-ReActor](https://github.com/Gourieff/ComfyUI-ReActor/compare/d901609...d60458f)
+- [Updated ComfyUI_tinyterraNodes](https://github.com/TinyTerra/ComfyUI_tinyterraNodes/compare/c669e6c...1a90e43)
+- [Updated ComfyUI-Advanced-ControlNet](https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet/compare/da254b7...2bde95a)
+- [Updated ComfyUI-VideoHelperSuite](https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite/compare/330bce6...8e4d794)
+
+- [Updated ComfyUI-AnimateDiff-Evolved](https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved/compare/a34036b...90fb133)
 ## 2025-07-28
 
 Wan 2.2 weights:
