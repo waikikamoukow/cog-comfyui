@@ -252,6 +252,7 @@ class ComfyUI:
         while True:
             out = self.ws.recv()
             if isinstance(out, str):
+                print(out)
                 message = json.loads(out)
 
                 if message["type"] == "execution_error":

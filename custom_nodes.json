@@ -283,8 +283,8 @@
     "commit": "a64d8bb"
   },
   {
-    "repo": "https://github.com/mit-han-lab/ComfyUI-nunchaku",
-    "commit": "aee38dd"
+    "repo": "https://github.com/nunchaku-tech/ComfyUI-nunchaku",
+    "commit": "583ccd0"
   },
   {
     "repo": "https://github.com/deforum/deforum-comfy-nodes",

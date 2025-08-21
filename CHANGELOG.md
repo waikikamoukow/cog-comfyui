@@ -1,3 +1,6 @@
+## 2025-08-21
+
+- [Update ComfyUI to latest](https://github.com/comfyanonymous/ComfyUI/compare/938d3e8...1b2de26)
 ## 2025-08-08
 - [Updated ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper/compare/998a69c...a64d8bb)
 - [Updated ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG/compare/72bc6a5...f4ecb32)
